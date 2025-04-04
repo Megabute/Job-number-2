@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1_Shults", "lab1_Shults\lab1_Shults.vcxproj", "{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}.Debug|x64.ActiveCfg = Debug|x64
+		{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}.Debug|x64.Build.0 = Debug|x64
+		{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}.Debug|x86.Build.0 = Debug|Win32
+		{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}.Release|x64.ActiveCfg = Release|x64
+		{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}.Release|x64.Build.0 = Release|x64
+		{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}.Release|x86.ActiveCfg = Release|Win32
+		{5A0C5D77-6B1A-4670-8DD9-DA9D45B99309}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44CF52F7-A132-4B20-BD26-E8F6092ADDC9}
+	EndGlobalSection
+EndGlobal
